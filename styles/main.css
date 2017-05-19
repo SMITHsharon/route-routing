@@ -1,2 +1,13 @@
 body {
-  background-color: lightblue; }
+  background-size: cover;
+  background-image: url("/images/route 66.jpeg");
+  color: #FFF; }
+
+.homePage a:link, .highwayPage a:link {
+  color: #FF0000; }
+
+.homePage a:visited, .highwayPage a:visited {
+  color: #0000FF; }
+
+.homePage a:hover, .highwayPage a:hover {
+  color: #FF00FF; }
