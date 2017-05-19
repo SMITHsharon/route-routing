@@ -5,10 +5,10 @@ app.config(function($routeProvider) {
       controller: 'HomeCtrl'
     })
     .when('/Route66', {
-      templateUrl: 'partials/Route66.html',
-      controller: 'route66Ctrl'
+      templateUrl: 'partials/route66.html',
+      controller: 'Route66Ctrl'
     })
-    .when('/Pacific Coast Highway', {
+    .when('/PacificCoastHwy', {
       templateUrl: 'partials/pacCoastHwy.html',
       controller: 'PacCoastHwyCtrl'
     })

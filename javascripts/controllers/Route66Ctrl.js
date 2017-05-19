@@ -1,4 +1,4 @@
-app.controller("route66Ctrl", function($location, $scope) {
+app.controller("Route66Ctrl", function($location, $scope) {
 
 	$scope.highwayDescription = false;
 	$scope.highwayName = "Route 66";
