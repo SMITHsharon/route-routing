@@ -19,7 +19,6 @@ This exercise required two views, each providing information about a famous Amer
 ### Project Specs // PART 1
 - Completed project setup, including jQuery, Bootstrap, SASS, Angular, Angular-Route, Grunt
 - Injected `ngRoute` into the application
-- Added `controllers` and `partials` to the implementation
 - Set-up the two routes in `AppConfig.js`
 - Created two required controllers: `Route66Ctrl` and `PacCoastHwyCtrl`. In addition, created `HomeCtrl` and `NavCtrl`
 - Created two required partials: `route66.html` and `pacCoastHwy.html`. In addition, created `home.html` and `navbar.html`
