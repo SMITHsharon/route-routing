@@ -13,7 +13,7 @@ This exercise required two views, each providing information about a famous Amer
 ![Route Routing | Highway 66 w Desc](https://raw.githubusercontent.com/SMITHsharon/route-routing/routes/screens/Route-Routing%20on%20Click%20Route%2066%20Description%20Link.png)
 
 #### Route Routing | ...
-![Route Routing | ...]()
+![Route Routing | ...](https://raw.githubusercontent.com/SMITHsharon/route-routing/routes/screens/Route-Routing%20on%20Click%20Pacific%20Coast%20Hwy%20%2B%20Desc.png)
 
 
 ### Project Specs // PART 1
