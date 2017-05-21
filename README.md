@@ -40,7 +40,7 @@ This exercise required two views, each providing information about a famous Amer
 
 ### How To View The Screen 
 ```
-git clone 
+git clone https://github.com/SMITHsharon/route-routing.git
 cd route-routing
 cd lib
 bower install
