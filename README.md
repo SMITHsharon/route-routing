@@ -1,7 +1,7 @@
 # Route Routing
 
 ### Project Description 
-This exercise required two views, each providing information about a famous American highway. Each view includes a title that shows the name of the selected highway, and an element in which the description of the highway is displayed.
+This exercise required two views, each providing information about a famous American highway. Each view includes a title that shows the name of the selected highway, and (upon click) an element in which the description of the highway is displayed.
 
 #### Route Routing on Launch 
 ![Route Routing on Launch](https://raw.githubusercontent.com/SMITHsharon/route-routing/routes/screens/Route-Routing%20on%20Launch.png)
