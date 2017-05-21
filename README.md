@@ -17,11 +17,13 @@ This exercise required two views, each providing information about a famous Amer
 
 
 ### Project Specs // PART 1
-- Complete project setup, including jQuery, Bootstrap, SASS, Angular, Angular-Route, Grunt
+- Completed project setup, including jQuery, Bootstrap, SASS, Angular, Angular-Route, Grunt
 - Injected `ngRoute` into the application
 - Added `controllers` and `partials` to the implementation
-
-
+- Set-up the two routes in `AppConfig.js`
+- Created two required controllers: `Route66Ctrl` and `PacCoastHwyCtrl`. In addition, created `HomeCtrl` and `NavCtrl`
+- Created two required partials: `route66.html` and `pacCoastHwy.html`. In addition, created `home.html` and `navbar.html`
+- Each controller has two scope variables: `$scope.highhwayName` and `$scope.highwayDescription`
 
 
 ### Technologies Used
@@ -38,8 +40,8 @@ This exercise required two views, each providing information about a famous Amer
 
 ### How To View The Screen 
 ```
-git clone https://github.com/SMITHsharon/weatherAppAPI.git
-cd weatherAppAPI
+git clone 
+cd route-routing
 cd lib
 bower install
 npm install
