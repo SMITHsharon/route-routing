@@ -7,7 +7,7 @@ This exercise required two views, each providing information about a famous Amer
 ![Route Routing on Launch](https://raw.githubusercontent.com/SMITHsharon/route-routing/routes/screens/Route-Routing%20on%20Launch.png)
 
 #### Route Routing on Selecting Highway 66
-![Route Routing | Highway 66]()
+![Route Routing | Highway 66](https://raw.githubusercontent.com/SMITHsharon/route-routing/routes/screens/Route-Routing%20on%20Click%20Route%2066.png)
 
 #### Route Routing on Selecting Highway 66 / Click Description
 ![Route Routing | Highway 66 w Desc]()
