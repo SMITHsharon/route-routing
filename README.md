@@ -7,13 +7,13 @@ This exercise required two views, each providing information about a famous Amer
 ![Route Routing on Launch](https://raw.githubusercontent.com/SMITHsharon/route-routing/routes/screens/Route-Routing%20on%20Launch.png)
 
 #### Route Routing on Selecting Highway 66
-![Route Routing | Highway 66](https://raw.githubusercontent.com/SMITHsharon/route-routing/routes/screens/Route-Routing%20on%20Click%20Route%2066.png)
+![Route Routing | Highway 66]()
 
 #### Route Routing on Selecting Highway 66 / Click Description
-![Route Routing | Highway 66 w Desc](https://raw.githubusercontent.com/SMITHsharon/route-routing/routes/screens/Route-Routing%20on%20Click%20Route%2066%20Description%20Link.png)
+![Route Routing | Highway 66 w Desc]()
 
 #### Route Routing on Selecting Pacific Coast Highway + Click Description
-![Route Routing | ...](https://raw.githubusercontent.com/SMITHsharon/route-routing/routes/screens/Route-Routing%20on%20Click%20Pacific%20Coast%20Hwy%20%2B%20Desc.png)
+![Route Routing | ...]()
 
 
 ### Project Specs // PART 1
