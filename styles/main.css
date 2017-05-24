@@ -1,13 +1,12 @@
 body {
   background-size: cover;
-  background-image: url("/images/route 66.jpeg");
   color: #FFF;
   font: 100% "Droid Sans", sans-serif;
   font-size: 1.5em; }
 
-.pacCoast body {
+.divImage {
   background-size: cover;
-  background-image: url("/images/Pacific Coast Highway 1.jpg"); }
+  background-repeat: no-repeat; }
 
 .homePage a:link, .highwayPage a:link {
   color: #FF0000; }
