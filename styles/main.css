@@ -1,12 +1,26 @@
 body {
   background-size: cover;
+  background-color: #C7C4C3;
   color: #FFF;
   font: 100% "Droid Sans", sans-serif;
   font-size: 1.5em; }
 
-.divImage {
+.homeHeader {
+  color: #3D3937; }
+
+div.divImage {
   background-size: cover;
+  height: 100%;
+  width: 100%;
   background-repeat: no-repeat; }
+  div.divImage .highwayName {
+    padding-top: 1%;
+    margin-left: 5%; }
+  div.divImage .highwayDescription {
+    margin-left: 5%;
+    margin-right: 38%; }
+  div.divImage .highwayPage {
+    margin-left: 5%; }
 
 .homePage a:link, .highwayPage a:link {
   color: #FF0000; }
