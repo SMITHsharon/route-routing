@@ -1,7 +1,7 @@
 body {
   background-size: cover;
   background-color: #C7C4C3;
-  color: #FFF;
+  color: #3D3937;
   font: 100% "Droid Sans", sans-serif;
   font-size: 1.5em; }
 
@@ -18,7 +18,8 @@ div.divImage {
     margin-left: 5%; }
   div.divImage .highwayDescription {
     margin-left: 5%;
-    margin-right: 38%; }
+    margin-right: 38%;
+    color: #FFF; }
   div.divImage .highwayPage {
     margin-left: 5%; }
 

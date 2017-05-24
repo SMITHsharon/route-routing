@@ -4,9 +4,8 @@
 
 body {
 	background-size: cover;
-	// background-image: url("/images/route 66.jpeg");
 	background-color: $lightbrown;
-	color: $white;
+	color: $darkbrown;
 	font: 100% $font-stack;
 	font-size: 1.5em;
 }
@@ -32,6 +31,7 @@ div.divImage {
 	.highwayDescription {
 		margin-left: 5%;
 		margin-right: 38%;
+		color: $white;
 	}
 
 	.highwayPage {
