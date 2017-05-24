@@ -1,5 +1,60 @@
 @import "colors";
+@import "fonts";
+
 
 body {
-	background-color: $lightblue;
+	background-size: cover;
+	background-color: $lightbrown;
+	color: $darkbrown;
+	font: 100% $font-stack;
+	font-size: 1.5em;
 }
+
+.homeHeader {
+
+	color: $darkbrown;
+}
+
+
+div.divImage {
+
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+
+	.highwayName {
+		padding-top: 1%;
+		margin-left: 5%;
+	}
+
+	.highwayDescription {
+		margin-left: 5%;
+		margin-right: 38%;
+		color: $white;
+	}
+
+	.highwayPage {
+		margin-left: 5%;
+	}
+}
+
+
+
+
+.homePage, .highwayPage {
+
+	a:link {
+		color: $red;
+	}
+
+	a:visited {
+		color: $blue;
+	}
+
+	a:hover {
+		color: $fuchsia;
+	}
+}
+
+

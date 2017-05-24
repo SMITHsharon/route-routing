@@ -1,2 +1,33 @@
 body {
-  background-color: lightblue; }
+  background-size: cover;
+  background-color: #C7C4C3;
+  color: #3D3937;
+  font: 100% "Droid Sans", sans-serif;
+  font-size: 1.5em; }
+
+.homeHeader {
+  color: #3D3937; }
+
+div.divImage {
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat; }
+  div.divImage .highwayName {
+    padding-top: 1%;
+    margin-left: 5%; }
+  div.divImage .highwayDescription {
+    margin-left: 5%;
+    margin-right: 38%;
+    color: #FFF; }
+  div.divImage .highwayPage {
+    margin-left: 5%; }
+
+.homePage a:link, .highwayPage a:link {
+  color: #FF0000; }
+
+.homePage a:visited, .highwayPage a:visited {
+  color: #0000FF; }
+
+.homePage a:hover, .highwayPage a:hover {
+  color: #FF00FF; }
